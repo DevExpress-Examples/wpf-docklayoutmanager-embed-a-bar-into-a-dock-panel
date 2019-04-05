@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [Window1.xaml](./CS/DockingAndBarsIntegration/Window1.xaml) (VB: [Window1.xaml](./VB/DockingAndBarsIntegration/Window1.xaml))
-* [Window1.xaml.cs](./CS/DockingAndBarsIntegration/Window1.xaml.cs) (VB: [Window1.xaml](./VB/DockingAndBarsIntegration/Window1.xaml))
+* [Window1.xaml.cs](./CS/DockingAndBarsIntegration/Window1.xaml.cs) (VB: [Window1.xaml.vb](./VB/DockingAndBarsIntegration/Window1.xaml.vb))
 <!-- default file list end -->
 # How to: Embed a Bar into a Dock Panel
 
